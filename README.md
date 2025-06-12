@@ -1,2 +1,3 @@
-Olá! Meu nome é Weslei Da Silva Santos, sou técnico em informática cursando o 2º ano do ensino médio.Gosto muito de tecnologia, estudo linguagens como HTML, CSS, JavaScript e Python. Também tenho experiência com sistemas operacionais, lógica de programação e gestão de startups.
+Site de Informática
+Este site foi desenvolvido utilizando HTML e CSS. A estrutura foi organizada em seções que abordam diferentes temas, como lógica de programação, arquitetura e manutenção de computadores, além da história da informática.
    
